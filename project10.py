@@ -1,5 +1,5 @@
 # Input the email address
-email = input("bradleyyaman416@gmail.com: ")
+email = input("Enter the email address: ")
 
 # Extract the domain name
 domain = email.split('@')[-1]
