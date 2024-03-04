@@ -1,8 +1,8 @@
 # Input an integer
-number = int(input("enter an integers 8 and 5"))
+number = int(input("enter an integers"))
 
 # Multiply the integer by 5
-result = 8 * 5
+result =  Number* 5
 
 # Print the result
 print(result)
